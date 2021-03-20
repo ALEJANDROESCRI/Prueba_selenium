@@ -1,0 +1,15 @@
+<suite name="Test Suites">
+    <test name="All the tests">
+        <groups>
+            <run>
+                <include name="successTest" />
+                <include name="failTests"</>
+            </run>
+        </groups>
+        <classess>
+            <class name="Ejercicios_Selenium.examenSelenium.prueba_mailchimp"/>
+        </classess>
+    </test>
+
+
+</suite>
